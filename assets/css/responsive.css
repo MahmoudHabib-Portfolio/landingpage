@@ -1,0 +1,226 @@
+@media screen and (max-width: 1200px){
+	.navhawk{
+		padding: 0.8em 2em;
+	}
+	.heading{
+		left: 5%;
+		width: 50vw;
+	}
+
+	.heading > h1{
+	font-size: 45px;
+	font-weight: bold;
+}
+
+.heading > p{
+	font-size: 15px;
+}
+
+.Award-sec{
+	padding: 1em 0em 1em 0em;
+}
+
+.rise > p{
+	font-family: sans-serif;
+	padding: 0em 1em;
+	font-size: 16px;
+}
+
+.rise2 > p{
+	font-family: sans-serif;
+	padding: 0em 1em;
+	font-size: 16px;
+}
+
+.flickity-prev-next-button{
+	top: 15em;
+}
+
+.flickity-prev-next-button.previous{
+	left: 75%;
+}
+
+}
+
+@media screen and (max-width: 990px){
+	.testimonals{
+		padding-top: 2em;
+	}
+	.flickity-prev-next-button{
+	top: 50%;
+}
+
+.flickity-prev-next-button.previous{
+	left: 0% !important;
+}
+.flickity-prev-next-button.next{
+	right: 0px !important;
+}
+}
+
+@media screen and (max-width: 768px){
+	
+	.navhawk{
+		padding: 1em;
+		border-bottom: 3px solid #eee;
+	}
+
+	.scrolled{
+	padding: 1em 1em 0.5em 1em;
+	}
+
+	.nav-menu{
+		display: none;
+	}
+
+	.side-nav{
+		color: #262f4c !important;
+		line-height: 0.9;
+		display: block;
+	}
+
+	.heading{
+		top: 45%;
+	}
+
+	.heading > h1{
+	font-size: 30px;
+	}
+
+.heading > p{
+	font-size: 12px;
+	}
+
+.heading-btn{
+	font-size: 12px;
+	}
+
+.watch-demo{
+	font-size: 12px;
+	}
+
+.home-header{
+	height: 100vh;
+	}
+
+.mobile > img{
+	width: 50vw;
+}
+
+.testimonals{
+	padding-top: 0px;
+}
+
+.testimon-heading p{
+	width: 100%;
+}
+
+.testimonals-img{
+	padding: 3em 0em;
+}
+
+.testimon-heading h2{
+	font-size: 25px;
+	text-align: center;
+}
+
+.customer-icon > img{
+	width: 8vw;
+}
+
+.badgesBody li > img{
+	width: 10vw;
+}
+
+.badgesBody li{
+	padding: 0.5em;
+}
+
+}
+
+@media screen and (max-width: 640px){
+	.home-header{
+		height: 80vh;
+	}
+	.heading{
+		top: 35%;
+	}
+
+	.heading > h1{
+	font-size: 30px;
+	}
+
+	.heading{
+		width: 70vw;
+	}
+
+	.feature-header{
+	padding: 1em 0em;
+	}
+
+	.row{
+		margin-right: 0px !important;
+		margin-left: 0px !important;
+	}
+
+	.rise > h2{
+		font-size: 20px;
+	}
+
+	.rise2 > h2{
+		font-size: 20px;
+	}
+
+	.footer-menu ul li{
+		display: inline-block;
+		padding-left: 1em;
+	}
+
+	.footer-social ul li{
+		display: inline-block;
+		padding-left: 1em;
+	}
+
+	.copy{
+		font-size: 14px;
+	}	
+
+}
+
+@media screen and (max-width: 475px){
+	.home-header{
+		height: 60vh;
+	}
+	.heading{
+		top: 30%;
+	}
+	.heading > h1{
+	font-size: 18px;
+	}
+	.heading-btn{
+	font-size: 10px;
+	}
+	.watch-demo{
+	font-size: 10px;
+	padding: 0px 15px;
+	}
+
+	.hrd3 > h3{
+	font-weight: bold;
+	font-size: 20px !important;
+	}
+
+	.customer-icon > img{
+		width: 10vw;
+	}
+
+	.badgesBody li{
+	padding: 0.5em;
+	}
+
+	.footer-menu ul li{
+		display: list-item;
+		padding: 1em;
+	}
+
+}
